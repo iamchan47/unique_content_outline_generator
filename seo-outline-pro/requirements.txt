@@ -1,0 +1,9 @@
+google-generativeai
+requests
+beautifulsoup4
+rich
+python-dotenv
+lxml
+urllib3
+flask
+flask-cors
